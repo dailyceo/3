@@ -269,7 +269,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Public Mint Mar 20, 2:00 PM ET
+              Public Mint Mar 20, 13:00 UTC
             </s.TextDescription>
             <s.SpacerLarge />
 
